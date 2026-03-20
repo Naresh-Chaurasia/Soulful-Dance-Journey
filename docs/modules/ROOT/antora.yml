@@ -1,0 +1,9 @@
+name: my-component
+title: Soulful Dance Journey
+version: master
+nav:
+  - modules/ROOT/nav.adoc
+asciidoc:
+  attributes:
+    toc: left
+    toclevels: 3

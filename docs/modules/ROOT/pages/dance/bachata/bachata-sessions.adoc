@@ -1,0 +1,77 @@
+= Bachata
+:toc: right
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+== Sessions
+
+=== Session 1
+
+*Basics*
+
+* Side Basic
+* Front and Back Basic
+* Left Turn
+* Right Turn
+* In Place Basic / On The Spot
+* Step and Tap
+* Basic In All Directions (Horizontal, Vertical, Diagonal, Circular etc.)
+
+##################################################
+
+=== Session 2
+
+*Open Hold Parner Work and Semi Close Hold Partner Work*
+
+* #Different Holds#
+* Transition: Open & Semi Close Hold
+* Side Basic
+* Front and Back Basic
+* Left Turn
+* Right Turn
+* In Place Basic / On The Spot
+* Step and Tap
+
+##################################################
+
+
+=== Session 3
+
+* Basic + 180 degree (rotation)
+* Wrap
+* Hair Comb
+* Neck Roll
+* Hammer Lock
+* Wave
+
+##################################################
+
+== Resources
+
+https://www.youtube.com/playlist?list=PL5wtqicMLL7b333c0PyB0cH9Gd_6lsT9d[YouTube Playlist]
+
+##################################################
+
+== Hand Holds
+
+image::bachata/open.png[Open Hold 1]
+
+---
+
+image::bachata/open2.jpg[Open Hold 2]
+
+---
+
+image::bachata/semi-closed2.jpg[Semi Close Hold]
+
+##################################################
+
+== Bachata Tips
+
+* Keep your knees slightly bent and relaxed.
+* Move the hips naturally in the opposite direction of the step.
+* Maintain a strong and stable frame.
+* When turning the lady, keep your hand at her forehead level.
+* Maintain proper posture and connection/block/resistance with your partner.
+

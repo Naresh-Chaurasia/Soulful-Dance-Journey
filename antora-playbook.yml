@@ -1,0 +1,33 @@
+site:
+  title: Soulful Dance Journey
+  start_page: my-component::index.adoc
+
+content:
+  sources:
+    - url: .
+      start_path: docs
+      branches: HEAD
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+
+output:
+  dir: build/site
+
+runtime:
+  cache_dir: .antora/cache
+
+asciidoc:
+  attributes:
+    icons: font
+    sectnums: 5
+    sectnumlevels: 5
+    toc: right
+    toclevels: 5
+
+antora:
+  extensions:
+    - require: '@antora/lunr-extension'
+      index_latest_only: true
