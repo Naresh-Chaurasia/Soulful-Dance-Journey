@@ -2,3 +2,4 @@
 
 Welcome to the Soulful Dance Journey documentation. This site contains comprehensive guides and tutorials for various dance styles, with a focus on Bachata and other partner dances.
 
+link:https://naresh-chaurasia.github.io/Soulful-Dance-Journey/my-component/index.html[Web]
