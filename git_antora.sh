@@ -16,4 +16,4 @@ echo "Pushing changes to origin main..."
 git push origin main
 
 sleep 1
-echo "done1"
+echo "done"
