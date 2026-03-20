@@ -1,7 +1,0 @@
-= Ballet
-
-image::ballet/demi-plie.jpg[demi-plie,window=_blank]
-
----
-
-image::ballet/grand-plie.jpg[grand-plie,window=_blank]

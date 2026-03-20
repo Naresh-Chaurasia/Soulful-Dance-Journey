@@ -41,8 +41,8 @@
 * Basic + 180 degree (rotation)
 * Wrap
 * Hair Comb
+* Hammer Lock | Hammer Lock with Cross Hands
 * Neck Roll
-* Hammer Lock
 * Wave
 
 ##################################################

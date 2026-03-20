@@ -1,11 +1,5 @@
 * xref:index.adoc[Home]
 
-.Dance
-* xref:dance/ballet.adoc[Ballet]
-* xref:dance/marius-elena.adoc[Marius & Elena]
-* xref:dance/sagar-prerna.adoc[Sagar & Prerna]
-* xref:dance/salsa.adoc[Salsa]
-
 .Bachata
 * xref:dance/bachata/bachata-sessions.adoc[Bachata Sessions]
 * xref:dance/bachata/bachata-drills.adoc[Bachata Drills]
