@@ -4,6 +4,33 @@
 :sectnums:
 :sectnumlevels: 5
 
+== Practice Routines
+
+=== Level 0
+
+* Side Basic x 2
+* Front and Back Basic x 2
+* Left Turn x 2
+* Right Turn x 2
+* In Place Basic / On The Spot
+* Step and Tap
+
+=== Level 1
+
+* Basic + 180 degree (rotation)
+* Bachata Turns for Leader and Follower
+* Wrap Or Pretzel 
+* Hair Comb Or Caricia | Leader and Follower
+* Hammer Lock | Hammer Lock with Cross Hands
+* Mambo Or Step Tap, Step Tap
+
+=== Level 2
+
+* Switching Places
+* Neck Roll
+* Wave
+* Kentucky | Pretzel | Wrap (Take in Opp Direction | Use Dance Floor)
+
 == Sessions
 
 === Session 1
@@ -50,26 +77,13 @@
 * Switching Places
 * Neck Roll
 * Wave
+* Kentucky | Pretzel | Wrap (Take in Opp Direction | Use Dance Floor)
 
 ##################################################
 
 == Resources
 
 https://www.youtube.com/playlist?list=PL5wtqicMLL7b333c0PyB0cH9Gd_6lsT9d[YouTube Playlist]
-
-##################################################
-
-== Hand Holds
-
-image::bachata/open.png[Open Hold 1]
-
----
-
-image::bachata/open2.jpg[Open Hold 2]
-
----
-
-image::bachata/semi-closed2.jpg[Semi Close Hold]
 
 ##################################################
 

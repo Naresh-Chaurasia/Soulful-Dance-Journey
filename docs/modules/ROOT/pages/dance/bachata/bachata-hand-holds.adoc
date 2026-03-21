@@ -1,0 +1,25 @@
+= Bachata In Pics
+:toc: right
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+== Hand Holds
+
+* *Open Hold*
+
+image::bachata/open-hold1.png[Open Hold 1]
+
+---
+
+* *Madrid Hold | Palm-to-Palm*
+
+image::bachata/open-hold-madrid2.jpg[Madrid Hold]
+
+---
+
+* *Semi Close Hold*
+
+image::bachata/semi-closed1.jpg[Semi Close Hold]
+
+
