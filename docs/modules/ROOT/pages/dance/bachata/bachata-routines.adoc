@@ -12,8 +12,8 @@
 * Front and Back Basic x 2
 * Left Turn x 2
 * Right Turn x 2
-* In Place Basic / On The Spot
-* Step and Tap
+* In Place Basic / On The Spot x 2
+* Step and Tap x 2
 
 ##################################################
 
