@@ -4,8 +4,9 @@
 :sectnums:
 :sectnumlevels: 5
 
-Bachata In Pictures
+== Finding Your Beats
 
+*Finding 1*
 
 ++++
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
@@ -16,13 +17,6 @@ Bachata In Pictures
 </div>
 ++++
 
----
+##################################################
 
-++++
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/Uix8EKGN0VU"
-title="YouTube video player"
-frameborder="0"
-allowfullscreen>
-</iframe>
-++++
+---
