@@ -6,7 +6,8 @@
 
 == Finding Your Beats
 
-*Finding 1*
+=== Finding 1
+
 
 ++++
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
