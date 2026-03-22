@@ -8,11 +8,11 @@
 
 === Level 0
 
-* Side Basic x 2
-* Front and Back Basic x 2
-* Left Turn x 2
-* Right Turn x 2
-* In Place Basic / On The Spot
+* Side Basic
+* Front and Back Basic
+* Left Turn
+* Right Turn
+* In Place Basic / On The Spot 
 * Step and Tap
 
 === Level 1
