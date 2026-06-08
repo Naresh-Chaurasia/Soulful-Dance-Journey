@@ -1,7 +1,7 @@
 ++++
 <div style="text-align: center; padding: 1.5rem 0;">
   <h1 style="font-size: 2.2rem; margin-bottom: 0.25rem;">💃 Bachata Drills</h1>
-  <p style="font-size: 1.1rem; color: #555; margin-top: 0;">7-Day Practice Plan</p>
+  <p style="font-size: 1.1rem; color: #555; margin-top: 0;">7-Day Drills Plan</p>
   <hr style="width: 60px; border: 2px solid #e67e22; margin: 1rem auto;">
 </div>
 ++++
@@ -27,7 +27,7 @@
 </style>
 ++++
 
-== Basics Drills
+== 7-Day Drills Plan
 
 ++++
 <div class="drill-grid">

@@ -1,7 +1,7 @@
 ++++
 <div style="text-align: center; padding: 1.5rem 0;">
   <h1 style="font-size: 2.2rem; margin-bottom: 0.25rem;">💃 Bachata</h1>
-  <p style="font-size: 1.1rem; color: #555; margin-top: 0;">Sessions & Techniques</p>
+  <p style="font-size: 1.1rem; color: #555; margin-top: 0;">Classroom Sessions & Techniques</p>
   <hr style="width: 60px; border: 2px solid #e67e22; margin: 1rem auto;">
 </div>
 ++++
@@ -10,6 +10,51 @@
 :toclevels: 5
 :sectnums:
 :sectnumlevels: 5
+
+
+
+++++
+<style>
+.tips-grid { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0; }
+.tip-card { flex: 1 1 200px; background: linear-gradient(135deg, #fef9f0, #fff4e6); border-left: 4px solid #e67e22; border-radius: 8px; padding: 1rem 1.2rem; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.tip-icon { font-size: 1.6rem; margin-bottom: 0.4rem; }
+.tip-text { font-size: 0.9rem; line-height: 1.4; color: #444; }
+</style>
+++++
+
+##############################################
+
+
+== Bachata Techniques
+
+> Key Bachata techniques and tips for improving your dance, including footwork, hip movement, turns, and partner connection.
+
+++++
+<div class="tips-grid">
+  <div class="tip-card">
+    <div class="tip-icon">🦵</div>
+    <div class="tip-text">Keep your knees slightly bent and relaxed</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-icon">💃</div>
+    <div class="tip-text">Move hips naturally opposite your step direction</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-icon">🏗️</div>
+    <div class="tip-text">Maintain a strong and stable frame</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-icon">🤲</div>
+    <div class="tip-text">Keep your hand at her forehead level when turning</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-icon">🧘</div>
+    <div class="tip-text">Proper posture & connection / block / resistance</div>
+  </div>
+</div>
+++++
+
+##############################################
 
 ++++
 <style>
@@ -22,7 +67,7 @@
 </style>
 ++++
 
-== Sessions
+== Classroom Sessions
 
 > Bachata Classroom Sessions - A structured approach to learning Bachata, covering foundational techniques, partner work, and improvers moves.
 
@@ -89,44 +134,4 @@
 ++++
 
 ##############################################
-
-
-++++
-<style>
-.tips-grid { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0; }
-.tip-card { flex: 1 1 200px; background: linear-gradient(135deg, #fef9f0, #fff4e6); border-left: 4px solid #e67e22; border-radius: 8px; padding: 1rem 1.2rem; display: flex; flex-direction: column; align-items: center; text-align: center; }
-.tip-icon { font-size: 1.6rem; margin-bottom: 0.4rem; }
-.tip-text { font-size: 0.9rem; line-height: 1.4; color: #444; }
-</style>
-++++
-
-##############################################
-
-
-== Bachata Tips
-
-++++
-<div class="tips-grid">
-  <div class="tip-card">
-    <div class="tip-icon">🦵</div>
-    <div class="tip-text">Keep your knees slightly bent and relaxed</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-icon">💃</div>
-    <div class="tip-text">Move hips naturally opposite your step direction</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-icon">🏗️</div>
-    <div class="tip-text">Maintain a strong and stable frame</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-icon">🤲</div>
-    <div class="tip-text">Keep your hand at her forehead level when turning</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-icon">🧘</div>
-    <div class="tip-text">Proper posture & connection / block / resistance</div>
-  </div>
-</div>
-++++
 

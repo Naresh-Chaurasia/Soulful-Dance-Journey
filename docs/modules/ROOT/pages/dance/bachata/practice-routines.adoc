@@ -1,6 +1,6 @@
 ++++
 <div style="text-align: center; padding: 1.5rem 0;">
-  <h1 style="font-size: 2.2rem; margin-bottom: 0.25rem;">💃 Bachata Routines</h1>
+  <h1 style="font-size: 2.2rem; margin-bottom: 0.25rem;">💃 Bachata Practice Routines</h1>
   <p style="font-size: 1.1rem; color: #555; margin-top: 0;">Progressive Practice Levels</p>
   <hr style="width: 60px; border: 2px solid #e67e22; margin: 1rem auto;">
 </div>
@@ -23,7 +23,7 @@
 </style>
 ++++
 
-== Practice Routines
+== Progressive Practice Levels
 
 ++++
 <div class="routine-grid">
