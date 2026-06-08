@@ -32,23 +32,18 @@
 ++++
 <div class="tips-grid">
   <div class="tip-card">
-    <div class="tip-icon">🦵</div>
-    <div class="tip-text">Keep your knees slightly bent and relaxed</div>
+    <div class="tip-text">Keep your knees slightly bent/soft and relaxed</div>
   </div>
   <div class="tip-card">
-    <div class="tip-icon">💃</div>
     <div class="tip-text">Move hips naturally opposite your step direction</div>
   </div>
   <div class="tip-card">
-    <div class="tip-icon">🏗️</div>
     <div class="tip-text">Maintain a strong and stable frame</div>
   </div>
   <div class="tip-card">
-    <div class="tip-icon">🤲</div>
     <div class="tip-text">Keep your hand at her forehead level when turning</div>
   </div>
   <div class="tip-card">
-    <div class="tip-icon">🧘</div>
     <div class="tip-text">Proper posture & connection / block / resistance</div>
   </div>
 </div>
