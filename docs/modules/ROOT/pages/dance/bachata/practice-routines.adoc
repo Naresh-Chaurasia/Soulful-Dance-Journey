@@ -1,0 +1,88 @@
+++++
+<div style="text-align: center; padding: 1.5rem 0;">
+  <h1 style="font-size: 2.2rem; margin-bottom: 0.25rem;">💃 Bachata Routines</h1>
+  <p style="font-size: 1.1rem; color: #555; margin-top: 0;">Progressive Practice Levels</p>
+  <hr style="width: 60px; border: 2px solid #e67e22; margin: 1rem auto;">
+</div>
+++++
+
+:toc: right
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+++++
+<style>
+.routine-grid { display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0; }
+.routine-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem 1.5rem; }
+.routine-card h3 { margin: 0 0 0.25rem 0; font-size: 1.2rem; color: #d35400; }
+.routine-sub { font-size: 0.85rem; color: #888; margin-bottom: 0.75rem; }
+.routine-prereq { display: inline-block; background: #e8f0fe; color: #1a73e8; font-size: 0.8rem; font-weight: 600; padding: 0.2rem 0.6rem; border-radius: 4px; margin-bottom: 0.75rem; }
+.routine-moves { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.routine-move { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 0.3rem 0.75rem; font-size: 0.9rem; color: #333; white-space: nowrap; }
+</style>
+++++
+
+== Practice Routines
+
+++++
+<div class="routine-grid">
+
+<div class="routine-card">
+  <h3>Level 0</h3>
+  <div class="routine-sub">Foundation</div>
+  <div class="routine-moves">
+    <span class="routine-move">Side Basic x 2</span>
+    <span class="routine-move">Front & Back Basic x 2</span>
+    <span class="routine-move">Left Turn x 2</span>
+    <span class="routine-move">Right Turn x 2</span>
+    <span class="routine-move">In Place Basic x 2</span>
+    <span class="routine-move">Step & Tap x 2</span>
+  </div>
+</div>
+
+<div class="routine-card">
+  <h3>Level 1</h3>
+  <div class="routine-sub">Rotation Basics</div>
+  <div class="routine-prereq">⬆ Includes Level 0</div>
+  <div class="routine-moves">
+    <span class="routine-move">Basic + 180° Rotation</span>
+    <span class="routine-move">Bachata Turns (Leader & Follower)</span>
+  </div>
+</div>
+
+<div class="routine-card">
+  <h3>Level 2</h3>
+  <div class="routine-sub">Partner Wraps</div>
+  <div class="routine-prereq">⬆ Includes Level 1</div>
+  <div class="routine-moves">
+    <span class="routine-move">Wrap / Pretzel</span>
+    <span class="routine-move">Hair Comb / Caricia</span>
+  </div>
+</div>
+
+<div class="routine-card">
+  <h3>Level 3</h3>
+  <div class="routine-sub">Locks & Mambo</div>
+  <div class="routine-prereq">⬆ Includes Level 2</div>
+  <div class="routine-moves">
+    <span class="routine-move">Hammer Lock</span>
+    <span class="routine-move">Hammer Lock with Cross Hands</span>
+    <span class="routine-move">Mambo / Step Tap</span>
+  </div>
+</div>
+
+<div class="routine-card">
+  <h3>Level 4</h3>
+  <div class="routine-sub">Intermediate Flow</div>
+  <div class="routine-prereq">⬆ Includes Level 3</div>
+  <div class="routine-moves">
+    <span class="routine-move">Switching Places</span>
+    <span class="routine-move">Neck Roll</span>
+    <span class="routine-move">Wave</span>
+    <span class="routine-move">Kentucky / Pretzel / Wrap</span>
+  </div>
+</div>
+
+</div>
+++++

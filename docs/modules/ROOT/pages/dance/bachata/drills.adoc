@@ -1,0 +1,155 @@
+++++
+<div style="text-align: center; padding: 1.5rem 0;">
+  <h1 style="font-size: 2.2rem; margin-bottom: 0.25rem;">💃 Bachata Drills</h1>
+  <p style="font-size: 1.1rem; color: #555; margin-top: 0;">7-Day Practice Plan</p>
+  <hr style="width: 60px; border: 2px solid #e67e22; margin: 1rem auto;">
+</div>
+++++
+
+:toc: right
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+++++
+<style>
+.drill-grid { display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0; }
+.drill-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem 1.5rem; }
+.drill-card h3 { margin: 0 0 0.25rem 0; font-size: 1.2rem; color: #d35400; }
+.drill-sub { font-size: 0.85rem; color: #888; margin-bottom: 0.75rem; }
+.drill-body { display: flex; flex-wrap: wrap; gap: 1rem; }
+.drill-col { flex: 1; min-width: 200px; }
+.drill-section-label { font-weight: 600; font-size: 0.85rem; color: #e67e22; margin: 0.5rem 0 0.25rem 0; }
+.drill-item { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 0.25rem 0.7rem; font-size: 0.85rem; color: #333; display: inline-block; margin: 0.15rem 0.2rem; white-space: nowrap; }
+.drill-learn { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.25rem; }
+.learn-tag { background: #fef3e2; color: #e67e22; font-size: 0.8rem; font-weight: 600; padding: 0.2rem 0.6rem; border-radius: 4px; }
+.learn-section { border-top: 1px solid #e0e0e0; padding-top: 0.75rem; margin-top: 0.5rem; }
+</style>
+++++
+
+== Basics Drills
+
+++++
+<div class="drill-grid">
+
+<div class="drill-card">
+  <h3>Day 1</h3>
+  <div class="drill-sub">Fundamentals</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🔥 Warm-up</div>
+      <div><span class="drill-item">In Place Basic (1 min)</span> <span class="drill-item">Side Basic (1 min)</span> <span class="drill-item">Front & Back Basic (1 min)</span></div>
+      <div class="drill-section-label">🎯 Solo Fundamentals</div>
+      <div><span class="drill-item">Side Basic (1 min)</span> <span class="drill-item">Front & Back Basic (1 min)</span> <span class="drill-item">In Place Basic (1 min)</span> <span class="drill-item">Step and Tap (1 min)</span></div>
+      <div class="drill-section-label">🤝 Partner Work</div>
+      <div><span class="drill-item">Side Basic in Open Hold (2 min)</span> <span class="drill-item">Front & Back Basic in Open Hold (2 min)</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Timing awareness</span> <span class="learn-tag">Weight transfer</span> <span class="learn-tag">Basic muscle memory</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Day 2</h3>
+  <div class="drill-sub">Turns</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🔥 Warm-up</div>
+      <div><span class="drill-item">In Place Basic (1 min)</span> <span class="drill-item">Side Basic (1 min)</span></div>
+      <div class="drill-section-label">🎯 Solo Turn Practice</div>
+      <div><span class="drill-item">Left Turn (2 min)</span> <span class="drill-item">Right Turn (2 min)</span></div>
+      <div class="drill-section-label">🤝 Partner Work</div>
+      <div><span class="drill-item">Side Basic → Left Turn</span> <span class="drill-item">Side Basic → Right Turn</span> <span class="drill-item">Repeat for 5–7 mins</span></div>
+    </div>
+
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Spin balance</span> <span class="learn-tag">Body coordination</span> <span class="learn-tag">Turn mechanics</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Day 3</h3>
+  <div class="drill-sub">Direction Drill</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🎯 Direction Drill</div>
+      <div><span class="drill-item">Horizontal Basic (2 min)</span> <span class="drill-item">Vertical Basic (2 min)</span> <span class="drill-item">Diagonal Basic (2 min)</span> <span class="drill-item">Circular Basic (2 min)</span></div>
+      <div class="drill-section-label">🤝 Partner Work</div>
+      <div><span class="drill-item">Front–Back Basic</span> <span class="drill-item">Side Basic</span> <span class="drill-item">Repeat continuously</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Spatial awareness</span> <span class="learn-tag">Foot placement control</span> <span class="learn-tag">Movement in different directions</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Day 4</h3>
+  <div class="drill-sub">Transitions</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🔥 Warm-up Basics</div>
+      <div class="drill-section-label">🔄 Transition Drill</div>
+      <div><span class="drill-item">Open Hold → Semi Close Hold</span> <span class="drill-item">Side Basic</span> <span class="drill-item">Front & Back Basic</span> <span class="drill-item">In Place Basic</span> <span class="drill-item">Change hold every 8 counts</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Partner connection</span> <span class="learn-tag">Frame control</span> <span class="learn-tag">Smooth transitions</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Day 5</h3>
+  <div class="drill-sub">Turn Combinations</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🎯 Turn Combination Drill</div>
+      <div><span class="drill-item">Side Basic</span> <span class="drill-item">Right Turn</span> <span class="drill-item">Front & Back Basic</span> <span class="drill-item">Left Turn</span> <span class="drill-item">Step and Tap</span></div>
+      <div><span class="drill-item">Repeat continuously for 10–12 mins</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Combining moves</span> <span class="learn-tag">Lead and follow timing</span> <span class="learn-tag">Dance flow</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Day 6</h3>
+  <div class="drill-sub">Continuous Dancing</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🎯 Continuous Dancing</div>
+      <div><span class="drill-item">Side Basic</span> <span class="drill-item">Front & Back Basic</span> <span class="drill-item">Left Turn</span> <span class="drill-item">Right Turn</span> <span class="drill-item">Step and Tap</span> <span class="drill-item">Direction Basics</span></div>
+      <div><span class="drill-item">Dance continuously for 15 mins</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Muscle memory</span> <span class="learn-tag">Stamina</span> <span class="learn-tag">Confidence while dancing</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Day 7</h3>
+  <div class="drill-sub">Social Dance Practice</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🎶 Social Dance</div>
+      <div><span class="drill-item">Play 3–4 salsa songs</span> <span class="drill-item">Dance freely</span> <span class="drill-item">Use both holds</span> <span class="drill-item">Use turns</span> <span class="drill-item">Use basics in different directions</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Real dance application</span> <span class="learn-tag">Improvisation</span> <span class="learn-tag">Comfort with partner</span></div>
+  </div>
+</div>
+
+</div>
+++++
