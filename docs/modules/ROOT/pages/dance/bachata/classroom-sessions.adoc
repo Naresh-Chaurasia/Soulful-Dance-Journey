@@ -79,7 +79,7 @@
     <span class="session-move">Right Turn</span>
     <span class="session-move">In Place Basic</span>
     <span class="session-move">Step & Tap</span>
-    <span class="session-move">Basic in All Directions</span>
+    <span class="session-move">Basic in Different Directions</span>
   </div>
 </div>
 
