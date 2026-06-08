@@ -1,6 +1,6 @@
 site:
   title: Soulful Dance Journey
-  start_page: my-component::index.adoc
+  start_page: my-component::soulful_index.adoc
 
 content:
   sources:

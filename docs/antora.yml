@@ -2,7 +2,7 @@ name: my-component
 title: Soulful Dance Journey
 version: master
 nav:
-  - modules/ROOT/nav.adoc
+  - modules/ROOT/soulful_nav.adoc
 asciidoc:
   attributes:
     toc: left

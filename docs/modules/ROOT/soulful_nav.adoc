@@ -1,4 +1,4 @@
-* xref:index.adoc[Home]
+* xref:soulful_index.adoc[Home]
 
 .Bachata
 * xref:dance/bachata/bachata-drills.adoc[Bachata Drills]

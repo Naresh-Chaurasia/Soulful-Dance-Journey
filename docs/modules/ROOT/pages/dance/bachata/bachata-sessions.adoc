@@ -1,64 +1,91 @@
-= Bachata
+++++
+<div style="text-align: center; padding: 1.5rem 0;">
+  <h1 style="font-size: 2.2rem; margin-bottom: 0.25rem;">💃 Bachata</h1>
+  <p style="font-size: 1.1rem; color: #555; margin-top: 0;">Sessions & Techniques</p>
+  <hr style="width: 60px; border: 2px solid #e67e22; margin: 1rem auto;">
+</div>
+++++
+
 :toc: right
 :toclevels: 5
 :sectnums:
 :sectnumlevels: 5
 
+++++
+<style>
+.session-grid { display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0; }
+.session-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem 1.5rem; }
+.session-card h3 { margin: 0 0 0.5rem 0; font-size: 1.2rem; color: #d35400; }
+.session-tag { display: inline-block; background: #fef3e2; color: #e67e22; font-size: 0.8rem; font-weight: 600; padding: 0.15rem 0.6rem; border-radius: 4px; margin-bottom: 0.75rem; }
+.session-moves { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.session-move { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 0.3rem 0.75rem; font-size: 0.9rem; color: #333; white-space: nowrap; }
+</style>
+++++
+
 == Sessions
 
-=== Session 1
+++++
+<div class="session-grid">
 
-*Basics*
+<div class="session-card">
+  <h3>Session 1</h3>
+  <div class="session-tag">Basics</div>
+  <div class="session-moves">
+    <span class="session-move">Side Basic</span>
+    <span class="session-move">Front & Back Basic</span>
+    <span class="session-move">Left Turn</span>
+    <span class="session-move">Right Turn</span>
+    <span class="session-move">In Place Basic</span>
+    <span class="session-move">Step & Tap</span>
+    <span class="session-move">Basic in All Directions</span>
+  </div>
+</div>
 
-* Side Basic
-* Front and Back Basic
-* Left Turn
-* Right Turn
-* In Place Basic / On The Spot
-* Step and Tap
-* Basic In All Directions (Horizontal, Vertical, Diagonal, Circular etc.)
+<div class="session-card">
+  <h3>Session 2</h3>
+  <div class="session-tag">Open & Semi Close Hold</div>
+  <div class="session-moves">
+    <span class="session-move">Different Holds</span>
+    <span class="session-move">Open → Semi Close</span>
+    <span class="session-move">Side Basic</span>
+    <span class="session-move">Front & Back Basic</span>
+    <span class="session-move">Left Turn</span>
+    <span class="session-move">Right Turn</span>
+    <span class="session-move">In Place Basic</span>
+    <span class="session-move">Step & Tap</span>
+  </div>
+</div>
 
-##################################################
+<div class="session-card">
+  <h3>Session 3</h3>
+  <div class="session-tag">Partner Work</div>
+  <div class="session-moves">
+    <span class="session-move">Basic + 180° Rotation</span>
+    <span class="session-move">Bachata Turns</span>
+    <span class="session-move">Wrap / Pretzel</span>
+    <span class="session-move">Hair Comb / Caricia</span>
+    <span class="session-move">Hammer Lock</span>
+    <span class="session-move">Mambo / Step Tap</span>
+  </div>
+</div>
 
-=== Session 2
+<div class="session-card">
+  <h3>Session 4</h3>
+  <div class="session-tag">Intermediate Moves</div>
+  <div class="session-moves">
+    <span class="session-move">Switching Places</span>
+    <span class="session-move">Neck Roll</span>
+    <span class="session-move">Wave</span>
+    <span class="session-move">Kentucky / Pretzel / Wrap</span>
+  </div>
+</div>
 
-*Open Hold Parner Work and Semi Close Hold Partner Work*
-
-* #Different Holds#
-* Transition: Open & Semi Close Hold
-* Side Basic
-* Front and Back Basic
-* Left Turn
-* Right Turn
-* In Place Basic / On The Spot
-* Step and Tap
-
-##################################################
-
-
-=== Session 3
-
-* Basic + 180 degree (rotation)
-* Bachata Turns for Leader and Follower
-* Wrap Or Pretzel 
-* Hair Comb Or Caricia | Leader and Follower
-* Hammer Lock | Hammer Lock with Cross Hands
-* Mambo Or Step Tap, Step Tap
-
-=== Session 4
-
-* Switching Places
-* Neck Roll
-* Wave
-* Kentucky | Pretzel | Wrap (Take in Opp Direction | Use Dance Floor)
-
-##################################################
+</div>
+++++
 
 == Resources
 
 https://www.youtube.com/playlist?list=PL5wtqicMLL7b333c0PyB0cH9Gd_6lsT9d[YouTube Playlist]
-
-##################################################
 
 == Bachata Tips
 
