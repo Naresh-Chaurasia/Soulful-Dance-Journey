@@ -1,9 +1,9 @@
 * xref:soulful_index.adoc[Home]
 
 .Bachata
-* xref:dance/bachata/drills.adoc[Drills]
-* xref:dance/bachata/practice-routines.adoc[Practice Routines]
-* xref:dance/bachata/classroom-sessions.adoc[Classroom Sessions]
+* xref:dance/bachata/1-classroom-sessions.adoc[1. Classroom Sessions]
+* xref:dance/bachata/2-basic-drills.adoc[2. Basic Drills]
+* xref:dance/bachata/3-practice-routines.adoc[3. Practice Routines]
 
 .. Bachata In Pictures
 * xref:dance/bachata/bachata-pics.adoc[Bachata In Pictures]
