@@ -1,0 +1,167 @@
+= Isolation Drills
+:author: Naresh Chaurasia
+:doctype: book
+:icons: font
+:revdate: {docdate}
+:revnumber: 1.0
+:revremark: First Edition
+:sectnumlevels: 5
+:sectnums: 5
+:source-highlighter: highlight.js
+:toc: right
+:toclevels: 5
+
+:toc: right
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+++++
+<style>
+.drill-grid { display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0; }
+.drill-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem 1.5rem; }
+.drill-card h3 { margin: 0 0 0.25rem 0; font-size: 1.2rem; color: #d35400; }
+.drill-sub { font-size: 0.85rem; color: #888; margin-bottom: 0.75rem; }
+.drill-body { display: flex; flex-wrap: wrap; gap: 1rem; }
+.drill-col { flex: 1; min-width: 200px; }
+.drill-section-label { font-weight: 600; font-size: 0.85rem; color: #e67e22; margin: 0.5rem 0 0.25rem 0; }
+.drill-item { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 0.25rem 0.7rem; font-size: 0.85rem; color: #333; display: inline-block; margin: 0.15rem 0.2rem; white-space: nowrap; }
+.drill-learn { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.25rem; }
+.learn-tag { background: #fef3e2; color: #e67e22; font-size: 0.8rem; font-weight: 600; padding: 0.2rem 0.6rem; border-radius: 4px; }
+.learn-section { border-top: 1px solid #e0e0e0; padding-top: 0.75rem; margin-top: 0.5rem; }
+</style>
+++++
+
+== Isolation Drills by Body Part
+
+++++
+<div class="drill-grid">
+
+<div class="drill-card">
+  <h3>Head & Neck</h3>
+  <div class="drill-sub">Slides, Tilts, Circles</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🔥 Warm-up</div>
+      <div><span class="drill-item">Neck rolls (1 min)</span> <span class="drill-item">Shoulder shrugs (1 min)</span></div>
+      <div class="drill-section-label">🎯 Solo Fundamentals</div>
+      <div><span class="drill-item">Head Slide Left-Right (1 min)</span> <span class="drill-item">Head Tilt Front-Back (1 min)</span> <span class="drill-item">Chin Lead Circles (1 min)</span> <span class="drill-item">Head Slide on Counts 1-3-5-7 (2 min)</span></div>
+      <div class="drill-section-label">🪞 Mirror Practice</div>
+      <div><span class="drill-item">Slow-motion head slides with mirror feedback (2 min)</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Isolating head from spine</span> <span class="learn-tag">Neck relaxation</span> <span class="learn-tag">Counting awareness</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Shoulders</h3>
+  <div class="drill-sub">Lifts, Rolls, Pops</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🔥 Warm-up</div>
+      <div><span class="drill-item">Arm swings (1 min)</span> <span class="drill-item">Shoulder shrugs (1 min)</span></div>
+      <div class="drill-section-label">🎯 Solo Isolation Practice</div>
+      <div><span class="drill-item">Single Shoulder Lift Alternating (2 min)</span> <span class="drill-item">Shoulder Roll Forward/Backward (2 min)</span> <span class="drill-item">Shoulder Pop on Beat (2 min)</span></div>
+      <div class="drill-section-label">🪞 Mirror Practice</div>
+      <div><span class="drill-item">Shoulder pops to slow music, isolating from chest (2 min)</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Shoulder/chest separation</span> <span class="learn-tag">Sharp accents</span> <span class="learn-tag">Relaxed arms</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Chest & Ribcage</h3>
+  <div class="drill-sub">Pops, Slides, Circles</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🎯 Solo Isolation Practice</div>
+      <div><span class="drill-item">Chest Pop Forward/Back (2 min)</span> <span class="drill-item">Chest Slide Left-Right (2 min)</span></div>
+      <div class="drill-section-label">🪞 Mirror Practice</div>
+      <div><span class="drill-item">Ribcage Circle Clockwise/Counter (2 min)</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Chest separation</span> <span class="learn-tag">Core engagement</span> <span class="learn-tag">Controlled circles</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Hips</h3>
+  <div class="drill-sub">Bumps, Circles, Figure 8</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🔥 Warm-up</div>
+      <div><span class="drill-item">Hip circles (1 min)</span> <span class="drill-item">Side-to-side weight shifts (1 min)</span></div>
+      <div class="drill-section-label">🎯 Solo Isolation Practice</div>
+      <div><span class="drill-item">Hip Bump Side to Side (2 min)</span> <span class="drill-item">Hip Circle Clockwise/Counter (2 min)</span> <span class="drill-item">Hip Figure 8 — Horizontal (2 min)</span></div>
+      <div class="drill-section-label">🪞 Mirror Practice</div>
+      <div><span class="drill-item">Hip bumps on counts 4 and 8, upper body still (2 min)</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Upper/lower body separation</span> <span class="learn-tag">Knee bend control</span> <span class="learn-tag">Hip-led movement</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Body Roll</h3>
+  <div class="drill-sub">Up, Down, Side</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🔥 Warm-up</div>
+      <div><span class="drill-item">Cat-cow spine warm-up (1 min)</span> <span class="drill-item">Standing roll-downs (1 min)</span></div>
+      <div class="drill-section-label">🎯 Solo Isolation Practice</div>
+      <div><span class="drill-item">Body Roll Up — Hips to Head (2 min)</span> <span class="drill-item">Body Roll Down — Head to Hips (2 min)</span> <span class="drill-item">Side Body Roll (2 min)</span></div>
+      <div class="drill-section-label">🪞 Mirror Practice</div>
+      <div><span class="drill-item">Slow-tempo full body rolls, segment by segment (3 min)</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Spinal articulation</span> <span class="learn-tag">Sequencing</span> <span class="learn-tag">Smooth wave-like flow</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Combinations</h3>
+  <div class="drill-sub">Chaining Isolations</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🎯 Combination Drill</div>
+      <div><span class="drill-item">Head Slide</span> <span class="drill-item">Shoulder Pop</span> <span class="drill-item">Chest Pop</span> <span class="drill-item">Hip Circle</span> <span class="drill-item">Body Roll</span></div>
+      <div><span class="drill-item">Chain isolations top-to-bottom, repeat 8–10 mins</span></div>
+      <div class="drill-section-label">🤝 Partner Application</div>
+      <div><span class="drill-item">Mirror partner's isolation in Open Hold (3 min)</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Chaining isolations</span> <span class="learn-tag">Body control under speed</span> <span class="learn-tag">Connection through mirroring</span></div>
+  </div>
+</div>
+
+<div class="drill-card">
+  <h3>Musicality</h3>
+  <div class="drill-sub">Applying Isolations to Music</div>
+  <div class="drill-body">
+    <div class="drill-col">
+      <div class="drill-section-label">🎶 Application</div>
+      <div><span class="drill-item">Play 3–4 bachata songs</span> <span class="drill-item">Apply isolations on musical accents</span> <span class="drill-item">Mix isolations with basic steps</span> <span class="drill-item">Freestyle improvisation</span></div>
+    </div>
+  </div>
+  <div class="drill-col learn-section">
+    <div class="drill-section-label">📚 Learning</div>
+    <div class="drill-learn"><span class="learn-tag">Musical phrasing</span> <span class="learn-tag">Expressive movement</span> <span class="learn-tag">Confidence in styling</span></div>
+  </div>
+</div>
+
+</div>
+++++
