@@ -5,7 +5,7 @@
 * xref:dance/bachata/2-basic-drills.adoc[2. Basic Drills]
 * xref:dance/bachata/3-practice-routines.adoc[3. Practice Routines]
 * xref:dance/bachata/4-classroom-isolations.adoc[4. Classroom Isolations]
-* xref:dance/bachata/5-classroom-revision.adoc[5-classroom-revision.adoc]
+* xref:dance/bachata/5-classroom-revision.adoc[5. Classroom Revision]
 
 
 .. Bachata In Pictures
