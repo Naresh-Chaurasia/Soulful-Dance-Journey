@@ -140,3 +140,51 @@
 
 ##############################################
 
+== For Revision
+
+> Revision checklist covering solo footwork variations, partner basics with embellishments, and turn preparation work.
+
+++++
+<div class="session-grid">
+
+<div class="session-card">
+  <h3>Solo</h3>
+  <div class="session-tag">Footwork Revision</div>
+  <div class="session-moves">
+    <span class="session-move">Side Basic</span>
+    <span class="session-move">Front Basic</span>
+    <span class="session-move">Inside Turns</span>
+    <span class="session-move">Basic with Heel and Toe</span>
+    <span class="session-move">Basic with Sweep/Flair Behind</span>
+    <span class="session-move">Basic with Tap Tap</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Partner Work</h3>
+  <div class="session-tag">Basics with Embellishments</div>
+  <div class="session-moves">
+    <span class="session-move">Basic with Heel and Toe</span>
+    <span class="session-move">Basic with Sweep/Flair Behind</span>
+    <span class="session-move">Basic with Tap Tap</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Partner Work</h3>
+  <div class="session-tag">Turn Preps</div>
+  <div class="session-moves">
+    <span class="session-move">Preps for Turns</span>
+    <span class="session-move">Hammer Lock</span>
+  </div>
+</div>
+
+</div>
+++++
+
+[NOTE]
+====
+Followers: do not lock the hand — maintain connection through resistance/tension instead.
+====
+
+##############################################

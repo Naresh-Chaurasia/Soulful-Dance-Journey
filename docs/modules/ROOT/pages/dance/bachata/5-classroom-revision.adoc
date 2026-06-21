@@ -1,0 +1,92 @@
+= Classroom Revision
+:author: Naresh Chaurasia
+:doctype: book
+:icons: font
+:revdate: {docdate}
+:revnumber: 1.0
+:revremark: First Edition
+:sectnumlevels:
+:sectnums:
+:source-highlighter: highlight.js
+:toc: right
+:toclevels:
+
+
+
+++++
+<style>
+.tips-grid { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0; }
+.tip-card { flex: 1 1 200px; background: linear-gradient(135deg, #fef9f0, #fff4e6); border-left: 4px solid #e67e22; border-radius: 8px; padding: 1rem 1.2rem; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.tip-icon { font-size: 1.6rem; margin-bottom: 0.4rem; }
+.tip-text { font-size: 0.9rem; line-height: 1.4; color: #444; }
+</style>
+
+<style>
+.session-grid { display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0; }
+.session-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem 1.5rem; }
+.session-card h3 { margin: 0 0 0.5rem 0; font-size: 1.2rem; color: #d35400; }
+.session-tag { display: inline-block; background: #fef3e2; color: #e67e22; font-size: 0.8rem; font-weight: 600; padding: 0.15rem 0.6rem; border-radius: 4px; margin-bottom: 0.75rem; }
+.session-moves { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.session-move { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 0.3rem 0.75rem; font-size: 0.9rem; color: #333; white-space: nowrap; }
+</style>
+++++
+
+
+
+== For Revision
+
+=== 20/June/2026
+
+> Revision checklist covering solo footwork variations, partner basics with embellishments, and turn preparation work.
+
+[NOTE]
+====
+Followers: do not lock the hand — maintain connection through resistance/tension instead.
+====
+
+++++
+<div class="session-grid">
+
+<div class="session-card">
+  <h3>Solo</h3>
+  <div class="session-tag">Footwork Revision</div>
+  <div class="session-moves">
+    <span class="session-move">Side Basic</span>
+    <span class="session-move">Front Basic</span>
+    <span class="session-move">Inside Turns (Use Prep for Turns)</span>
+    <span class="session-move">Side Basic with Sweep/Flair Behind</span>
+    <span class="session-move">Front Basic with Sweep/Flair Behind</span>
+  </div>
+  <br/>
+  <div class="session-tag">Footwork Revision with Synchopation</div>
+  <div class="session-moves">
+    <span class="session-move">Basic with Heel and Toe</span>
+    <span class="session-move">Basic with Tap Tap</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Partner Work</h3>
+  <div class="session-tag">Basics with Embellishments</div>
+  <div class="session-moves">
+    <span class="session-move">Basic with Heel and Toe</span>
+    <span class="session-move">Basic with Sweep/Flair Behind</span>
+    <span class="session-move">Basic with Tap Tap</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Partner Work</h3>
+  <div class="session-tag">Turn Preps</div>
+  <div class="session-moves">
+    <span class="session-move">Prep for Turns</span>
+    <span class="session-move">Prep for Hammer Lock</span>
+  </div>
+</div>
+
+</div>
+++++
+
+
+
+##############################################
