@@ -157,6 +157,8 @@
     <span class="session-move">Basic with Heel and Toe</span>
     <span class="session-move">Basic with Sweep/Flair Behind</span>
     <span class="session-move">Basic with Tap Tap</span>
+    <span class="session-move">In Place Basic</span>
+    <span class="session-move">Step and Tap</span>
   </div>
 </div>
 
