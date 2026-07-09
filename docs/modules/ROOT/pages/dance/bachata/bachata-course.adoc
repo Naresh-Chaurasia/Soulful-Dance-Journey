@@ -1,0 +1,348 @@
+= Bachata Level 1 (Beginner) – 8 Session Course Plan
+:author: Naresh Chaurasia
+:doctype: book
+:icons: font
+:revdate: {docdate}
+:revnumber: 1.0
+:revremark: First Edition
+:sectnumlevels:
+:sectnums:
+:source-highlighter: highlight.js
+:toc: right
+:toclevels:
+
+++++
+<style>
+.tips-grid { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0; }
+.tip-card { flex: 1 1 200px; background: linear-gradient(135deg, #fef9f0, #fff4e6); border-left: 4px solid #e67e22; border-radius: 8px; padding: 1rem 1.2rem; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.tip-icon { font-size: 1.6rem; margin-bottom: 0.4rem; }
+.tip-text { font-size: 0.9rem; line-height: 1.4; color: #444; }
+</style>
+++++
+
+##############################################
+
+This curriculum is designed to help complete beginners develop a strong foundation in Bachata by balancing:
+
+* Solo footwork
+* Body movement
+* Partner connection
+* Social dancing
+
+The focus is *quality over quantity*. Rather than teaching many patterns, students should become comfortable with timing, leading, following, musicality, and confidence on the dance floor.
+
+
+##############################################
+
+++++
+<style>
+.session-grid { display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0; }
+.session-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem 1.5rem; }
+.session-card h3 { margin: 0 0 0.5rem 0; font-size: 1.2rem; color: #d35400; }
+.session-tag { display: inline-block; background: #fef3e2; color: #e67e22; font-size: 0.8rem; font-weight: 600; padding: 0.15rem 0.6rem; border-radius: 4px; margin-bottom: 0.75rem; }
+.session-moves { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.session-move { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 0.3rem 0.75rem; font-size: 0.9rem; color: #333; white-space: nowrap; }
+</style>
+++++
+
+== Classroom Sessions
+
+> Bachata Level 1 (Beginner) – 8 Session Course Plan covering foundational techniques, partner work, body movement, and social dancing.
+
+++++
+<div class="session-grid">
+
+<div class="session-card">
+  <h3>Session 1 – Bachata Foundation</h3>
+  <div class="session-tag">Solo & Partner Basics</div>
+  <div class="session-moves">
+    <span class="session-move">Bachata Timing & Counts</span>
+    <span class="session-move">Side Basic</span>
+    <span class="session-move">Tap Technique</span>
+    <span class="session-move">Weight Transfer</span>
+    <span class="session-move">Hip Movement Basics</span>
+    <span class="session-move">Forward Basic</span>
+    <span class="session-move">Backward Basic</span>
+    <span class="session-move">Musicality – Finding the Beat</span>
+    <span class="session-move">Walking Basic</span>
+    <span class="session-move">In-Place Basic</span>
+    <span class="session-move">Square (Box) Basic</span>
+    <span class="session-move">Quarter-Turn Basic</span>
+    <span class="session-move">Step-Tap Drills</span>
+    <span class="session-move">Open Hold</span>
+    <span class="session-move">Closed Hold (Frame)</span>
+    <span class="session-move">Leader & Follower Connection</span>
+    <span class="session-move">Dancing the Basic Together</span>
+    <span class="session-move">Open ↔ Closed Hold Transitions</span>
+    <span class="session-move">Gentle Push-Pull Connection</span>
+    <span class="session-move">Walking Together</span>
+    <span class="session-move">Side Travel</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 2 – Turns & Direction Changes</h3>
+  <div class="session-tag">Turns & Holds</div>
+  <div class="session-moves">
+    <span class="session-move">Basic Turn Technique</span>
+    <span class="session-move">Spotting</span>
+    <span class="session-move">Balance</span>
+    <span class="session-move">Arm Styling Basics</span>
+    <span class="session-move">Turn Preparation</span>
+    <span class="session-move">Hand Placement</span>
+    <span class="session-move">Turn Timing (Counts 3–4 or 7–8)</span>
+    <span class="session-move">Free Spin Preparation</span>
+    <span class="session-move">Double-Hand Hold</span>
+    <span class="session-move">Left-to-Left Hand Hold</span>
+    <span class="session-move">Half Turn</span>
+    <span class="session-move">Turn and Return</span>
+    <span class="session-move">Follower Right Turn</span>
+    <span class="session-move">Follower Left Turn</span>
+    <span class="session-move">Leader Turn</span>
+    <span class="session-move">Hand Change</span>
+    <span class="session-move">Cross-hand Position</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 3 – Direction Changes & Social Dance Patterns</h3>
+  <div class="session-tag">Direction Changes & Patterns</div>
+  <div class="session-moves">
+    <span class="session-move">Cross-Body Travel</span>
+    <span class="session-move">Open Break</span>
+    <span class="session-move">Walk Around Each Other</span>
+    <span class="session-move">Follow the Leader</span>
+    <span class="session-move">Change Places</span>
+    <span class="session-move">Walk-Through Turn</span>
+    <span class="session-move">Half-Circle Walk</span>
+    <span class="session-move">Box Step</span>
+    <span class="session-move">Diagonal Basic</span>
+    <span class="session-move">Intro to Syncopation</span>
+    <span class="session-move">Inside Turn</span>
+    <span class="session-move">Outside Turn</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 4 – Bachata Moderna Basics</h3>
+  <div class="session-tag">Body Isolation & Positions</div>
+  <div class="session-moves">
+    <span class="session-move">Chest Isolation</span>
+    <span class="session-move">Rib Isolation</span>
+    <span class="session-move">Hip Isolation</span>
+    <span class="session-move">Shoulder Movement</span>
+    <span class="session-move">Body Coordination</span>
+    <span class="session-move">Shadow Position</span>
+    <span class="session-move">Hammerlock</span>
+    <span class="session-move">Cuddle Position</span>
+    <span class="session-move">Wrap & Unwrap</span>
+    <span class="session-move">Sweetheart Position</span>
+    <span class="session-move">Cape Position</span>
+    <span class="session-move">Reverse Hammerlock</span>
+    <span class="session-move">Basket Hold (Simple)</span>
+    <span class="session-move">Easy Pretzel Entry</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 5 – Sensual Bachata Introduction</h3>
+  <div class="session-tag">Beginner Safe</div>
+  <div class="session-moves">
+    <span class="session-move">Compression vs Extension</span>
+    <span class="session-move">Weight Transfer for Body Waves</span>
+    <span class="session-move">Side Body Movement</span>
+    <span class="session-move">Circular Basic Motion</span>
+    <span class="session-move">Body Wave Mechanics</span>
+    <span class="session-move">Chest Isolation</span>
+    <span class="session-move">Hip Circles</span>
+    <span class="session-move">Head Movement Technique</span>
+    <span class="session-move">Side Body Wave</span>
+    <span class="session-move">Forward Body Wave</span>
+    <span class="session-move">Hip Pulse</span>
+    <span class="session-move">Chest Pulse</span>
+    <span class="session-move">Frame & Connection</span>
+    <span class="session-move">Simple Body Wave Lead</span>
+    <span class="session-move">Preparation Signals</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 6 – Footwork & Styling</h3>
+  <div class="session-tag">Shines & Styling</div>
+  <div class="session-moves">
+    <span class="session-move">Basic Shines</span>
+    <span class="session-move">Direction Changes</span>
+    <span class="session-move">Tap Variations</span>
+    <span class="session-move">Foot Taps</span>
+    <span class="session-move">Slide Step</span>
+    <span class="session-move">Hip Styling</span>
+    <span class="session-move">Arm Styling</span>
+    <span class="session-move">Heel Tap</span>
+    <span class="session-move">Toe Tap</span>
+    <span class="session-move">Cross Step</span>
+    <span class="session-move">V-Step</span>
+    <span class="session-move">Grapevine</span>
+    <span class="session-move">Triple Tap</span>
+    <span class="session-move">Syncopated Side Basic</span>
+    <span class="session-move">Easy Suzy Q</span>
+    <span class="session-move">Slide & Tap</span>
+    <span class="session-move">Break Away for Shines</span>
+    <span class="session-move">Mirror Shines</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 7 – Full Social Dancing</h3>
+  <div class="session-tag">Social Dance Flow</div>
+  <div class="session-moves">
+    <span class="session-move">How to Start a Dance</span>
+    <span class="session-move">How to Invite a Partner</span>
+    <span class="session-move">Floor Etiquette</span>
+    <span class="session-move">Leading Softly</span>
+    <span class="session-move">Following Without Guessing</span>
+    <span class="session-move">Basic → Travel → Turn</span>
+    <span class="session-move">Inside Turn → Shadow → Exit</span>
+    <span class="session-move">Leader Turn → Basic</span>
+    <span class="session-move">Body Wave → Basic → End</span>
+    <span class="session-move">Turn → Hammerlock → Shadow</span>
+    <span class="session-move">Body Wave → Turn Exit</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 8 – Revision, Choreography & Social Practice</h3>
+  <div class="session-tag">Revision & Practice</div>
+  <div class="session-moves">
+    <span class="session-move">All Basics</span>
+    <span class="session-move">Partner Switching</span>
+    <span class="session-move">Musicality</span>
+    <span class="session-move">Mini Choreography</span>
+    <span class="session-move">Basics Only (Round 1)</span>
+    <span class="session-move">Basics + Turns (Round 2)</span>
+    <span class="session-move">Turns + Shadow + Hammerlock (Round 3)</span>
+    <span class="session-move">Footwork + Partner Work (Round 4)</span>
+    <span class="session-move">Freestyle with Partner Rotation (Round 5)</span>
+  </div>
+</div>
+
+</div>
+++++
+
+##############################################
+
+== For Revision
+
+> Revision checklist covering beginner footwork, partner connection, turns, direction changes, positions, body movement, and styling.
+
+++++
+<div class="session-grid">
+
+<div class="session-card">
+  <h3>Basic Footwork</h3>
+  <div class="session-tag">Footwork Revision</div>
+  <div class="session-moves">
+    <span class="session-move">Side Basic</span>
+    <span class="session-move">Forward & Back Basic</span>
+    <span class="session-move">Walking Basic</span>
+    <span class="session-move">Box Step</span>
+    <span class="session-move">Diagonal Basic</span>
+    <span class="session-move">Tap Variations</span>
+    <span class="session-move">Basic Syncopation</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Partner Connection</h3>
+  <div class="session-tag">Holds & Connection</div>
+  <div class="session-moves">
+    <span class="session-move">Open Hold</span>
+    <span class="session-move">Closed Hold</span>
+    <span class="session-move">Hand Change</span>
+    <span class="session-move">Cross-hand Hold</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Turns</h3>
+  <div class="session-tag">Turn Techniques</div>
+  <div class="session-moves">
+    <span class="session-move">Follower Right Turn</span>
+    <span class="session-move">Follower Left Turn</span>
+    <span class="session-move">Leader Turn</span>
+    <span class="session-move">Inside Turn</span>
+    <span class="session-move">Outside Turn</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Direction Changes</h3>
+  <div class="session-tag">Movement Patterns</div>
+  <div class="session-moves">
+    <span class="session-move">Open Break</span>
+    <span class="session-move">Change Places</span>
+    <span class="session-move">Walk-through</span>
+    <span class="session-move">Cross-body Travel</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Positions & Patterns</h3>
+  <div class="session-tag">Partner Positions</div>
+  <div class="session-moves">
+    <span class="session-move">Shadow</span>
+    <span class="session-move">Sweetheart</span>
+    <span class="session-move">Hammerlock</span>
+    <span class="session-move">Cuddle</span>
+    <span class="session-move">Wrap & Unwrap</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Body Movement</h3>
+  <div class="session-tag">Body Movement</div>
+  <div class="session-moves">
+    <span class="session-move">Basic Body Wave</span>
+    <span class="session-move">Side Body Wave</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Styling</h3>
+  <div class="session-tag">Shines & Styling</div>
+  <div class="session-moves">
+    <span class="session-move">Basic Shines</span>
+    <span class="session-move">Simple Styling</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Dance Skills</h3>
+  <div class="session-tag">Social Dance</div>
+  <div class="session-moves">
+    <span class="session-move">Musicality Basics</span>
+    <span class="session-move">Social Dance Etiquette</span>
+  </div>
+</div>
+
+</div>
+++++
+
+##############################################
+
+== Level 1 Outcome
+
+> By the end of this course, students should be able to:
+
+* Dance confidently to Bachata music.
+* Lead or follow comfortably using proper connection.
+* Perform beginner turns and social dance combinations.
+* Understand musical timing and rhythm.
+* Transition smoothly between common dance positions.
+* Dance socially with different partners while maintaining good etiquette.
+
+[NOTE]
+====
+Focus on *quality over quantity* — rather than teaching many patterns, students should become comfortable with timing, leading, following, musicality, and confidence on the dance floor.
+====
+
+##############################################
