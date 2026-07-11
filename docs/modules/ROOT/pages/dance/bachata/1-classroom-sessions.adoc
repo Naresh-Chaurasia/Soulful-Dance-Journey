@@ -24,38 +24,6 @@
 ##############################################
 
 
-== Bachata Techniques
-
-> Key Bachata techniques and tips for improving your dance, including footwork, hip movement, turns, and partner connection.
-
-++++
-<div class="tips-grid">
-  <div class="tip-card">
-    <div class="tip-text">Keep your knees slightly bent/soft and relaxed</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-text">Move hips naturally opposite your step direction</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-text">Maintain a strong and stable frame</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-text">Keep your hand at her forehead level when turning</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-text">Soft Tension / Proper posture & connection / block / resistance</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-text">Followers Torso has to Mirror Lead's Torso</div>
-  </div>
-  <div class="tip-card">
-    <div class="tip-text">While Turning, Followers maintain 90-degree arm position</div>
-  </div>
-</div>
-++++
-
-##############################################
-
 ++++
 <style>
 .session-grid { display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0; }
@@ -118,7 +86,6 @@
   </div>
 </div>
 
-
 <div class="session-card">
   <h3>Session 4</h3>
   <div class="session-tag">Improvers Moves</div>
@@ -129,6 +96,17 @@
     <span class="session-move">Kentucky / Pretzel / Wrap</span>
   </div>
 </div>
+
+
+<div class="session-card">
+  <h3>Session 5</h3>
+  <div class="session-tag">Lead Turns</div>
+  <div class="session-moves">
+    <span class="session-move">Lead Inside Turns</span>
+    <span class="session-move">Lead Hammerlock</span>
+  </div>
+</div>
+
 
 </div>
 ++++
