@@ -11,17 +11,6 @@
 :toc: right
 :toclevels:
 
-// ++++
-// <div style="text-align: center; padding: 1.5rem 0;">
-//   <h1 style="font-size: 2.2rem; margin-bottom: 0.25rem;">💃 Bachata</h1>
-//   <p style="font-size: 1.1rem; color: #555; margin-top: 0;">Classroom Sessions & Techniques</p>
-//   <hr style="width: 60px; border: 2px solid #e67e22; margin: 1rem auto;">
-// </div>
-// ++++
-
-
-
-
 
 ++++
 <style>
@@ -54,7 +43,13 @@
     <div class="tip-text">Keep your hand at her forehead level when turning</div>
   </div>
   <div class="tip-card">
-    <div class="tip-text">Proper posture & connection / block / resistance</div>
+    <div class="tip-text">Soft Tension / Proper posture & connection / block / resistance</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-text">Followers Torso has to Mirror Lead's Torso</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-text">While Turning, Followers maintain 90-degree arm position</div>
   </div>
 </div>
 ++++
@@ -130,7 +125,7 @@
   <div class="session-moves">
     <span class="session-move">Switching Places</span>
     <span class="session-move">Neck Roll</span>
-    <span class="session-move">Wave</span>
+    <span class="session-move">Hip Roll</span>
     <span class="session-move">Kentucky / Pretzel / Wrap</span>
   </div>
 </div>

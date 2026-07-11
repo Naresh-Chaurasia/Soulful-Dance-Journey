@@ -1,0 +1,55 @@
+= Tips for Bachata
+:author: Naresh Chaurasia
+:doctype: book
+:icons: font
+:revdate: {docdate}
+:revnumber: 1.0
+:revremark: First Edition
+:sectnumlevels:
+:sectnums:
+:source-highlighter: highlight.js
+:toc: right
+:toclevels:
+
+
+++++
+<style>
+.tips-grid { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0; }
+.tip-card { flex: 1 1 200px; background: linear-gradient(135deg, #fef9f0, #fff4e6); border-left: 4px solid #e67e22; border-radius: 8px; padding: 1rem 1.2rem; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.tip-icon { font-size: 1.6rem; margin-bottom: 0.4rem; }
+.tip-text { font-size: 0.9rem; line-height: 1.4; color: #444; }
+</style>
+++++
+
+##############################################
+
+
+== Tips
+
+> Key Bachata techniques and tips for improving your dance, including footwork, hip movement, turns, and partner connection.
+
+++++
+<div class="tips-grid">
+  <div class="tip-card">
+    <div class="tip-text">Keep your knees slightly bent/soft and relaxed</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-text">Move hips naturally opposite your step direction</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-text">Maintain a strong and stable frame</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-text">Keep your hand at her forehead level when turning</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-text">Soft Tension / Proper posture & connection / block / resistance</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-text">Followers Torso has to Mirror Lead's Torso</div>
+  </div>
+  <div class="tip-card">
+    <div class="tip-text">While Turning, Followers maintain 90-degree arm position</div>
+  </div>
+</div>
+++++
