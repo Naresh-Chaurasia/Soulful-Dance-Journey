@@ -88,7 +88,7 @@
 
 <div class="session-card">
   <h3>Session 4</h3>
-  <div class="session-tag">Improvers Moves</div>
+  <div class="session-tag">Basic - Improvers Moves</div>
   <div class="session-moves">
     <span class="session-move">Switching Places</span>
     <span class="session-move">Neck Roll</span>
@@ -100,10 +100,11 @@
 
 <div class="session-card">
   <h3>Session 5</h3>
-  <div class="session-tag">Lead Turns</div>
+  <div class="session-tag">Basic - Improvers Moves</div>
   <div class="session-moves">
     <span class="session-move">Lead Inside Turns</span>
     <span class="session-move">Lead Hammerlock</span>
+    <span class="session-move">Madrid Step</span>
   </div>
 </div>
 
