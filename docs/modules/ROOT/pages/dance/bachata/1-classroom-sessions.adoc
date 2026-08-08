@@ -137,6 +137,7 @@
     <span class="session-move">Side Tap</span>
     <span class="session-move">Sweep at 2</span>
     <span class="session-move">Inside Turns</span>
+    <span class="session-move">Box Step</span>
   </div>
 </div>
 
