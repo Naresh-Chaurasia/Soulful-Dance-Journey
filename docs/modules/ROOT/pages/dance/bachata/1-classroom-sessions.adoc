@@ -43,7 +43,7 @@
 <div class="session-grid">
 
 <div class="session-card">
-  <h3>Session</h3>
+  <h3>Session 1</h3>
   <div class="session-tag">Basics</div>
   <div class="session-moves">
     <span class="session-move">Side Basic</span>
@@ -58,7 +58,7 @@
 
 
 <div class="session-card">
-  <h3>Session</h3>
+  <h3>Session 2</h3>
   <div class="session-tag">Open & Semi Close Hold</div>
   <div class="session-moves">
     <span class="session-move">Different Holds</span>
@@ -74,7 +74,7 @@
 
 
 <div class="session-card">
-  <h3>Session</h3>
+  <h3>Session 3</h3>
   <div class="session-tag">Partner Work</div>
   <div class="session-moves">
     <span class="session-move">Basic + 180° Rotation</span>
@@ -87,7 +87,7 @@
 </div>
 
 <div class="session-card">
-  <h3>Session</h3>
+  <h3>Session 4</h3>
   <div class="session-tag">Basic - Improvers Moves</div>
   <div class="session-moves">
     <span class="session-move">Switching Places</span>
@@ -99,7 +99,7 @@
 
 
 <div class="session-card">
-  <h3>Session</h3>
+  <h3>Session 5</h3>
   <div class="session-tag">Basic - Improvers Moves</div>
   <div class="session-moves">
     <span class="session-move">Leader Inside Turns</span>
@@ -109,13 +109,13 @@
 </div>
 
 <div class="session-card">
-  <h3>Session</h3>
+  <h3>Session 6</h3>
   <div class="session-tag">Cross Hands + Turns</div>
   <div class="session-moves">
     <span class="session-move">Cross Hand Turns</span>
     <span class="session-move">Cross Hand Hammerlock</span>
     <span class="session-move">Guys Inside & Outside Turns</span>
-    <span class="session-move">Pretzel directions</span>
+    <span class="session-move">Pretzel direction</span>
   </div>
 </div>
 
