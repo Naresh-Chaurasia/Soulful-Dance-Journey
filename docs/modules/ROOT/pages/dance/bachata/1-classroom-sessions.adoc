@@ -114,7 +114,7 @@
   <div class="session-moves">
     <span class="session-move">Cross Hand Turns</span>
     <span class="session-move">Cross Hand Hammerlock</span>
-    <span class="session-move">Guys Inside & Outside Turns</span>
+    <span class="session-move">Guys Outside Turns</span>
     <span class="session-move">Pretzel direction</span>
   </div>
 </div>
@@ -122,6 +122,37 @@
 
 </div>
 ++++
+
+##############################################
+
+== Classroom Shines
+
+++++
+<div class="session-card">
+  <h3>Basic Shines</h3>
+  <div class="session-tag">Basics</div>
+  <div class="session-moves">
+    <span class="session-move">Side and Front Basic</span>
+    <span class="session-move">In Place Basic</span>
+    <span class="session-move">Side Tap</span>
+    <span class="session-move">Sweep at 2</span>
+    <span class="session-move">Inside Turns</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Improvers Shines</h3>
+  <div class="session-tag">Improvers</div>
+  <div class="session-moves">
+    <span class="session-move">Tap Tap on 4, 8</span>
+    <span class="session-move">Heel Toe on 4, 8 (Side and Front Basic)</span>
+    <span class="session-move">Cha Cha Cha</span>
+    <span class="session-move">Madrid Step</span>
+  </div>
+</div>
+++++
+
+
 
 ##############################################
 
