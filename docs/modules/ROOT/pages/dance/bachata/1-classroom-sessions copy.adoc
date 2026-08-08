@@ -1,0 +1,154 @@
+= Classroom Sessions
+:author: Naresh Chaurasia
+:doctype: book
+:icons: font
+:revdate: {docdate}
+:revnumber: 1.0
+:revremark: First Edition
+:sectnumlevels:
+:sectnums:
+:source-highlighter: highlight.js
+:toc: right
+:toclevels:
+
+
+++++
+<style>
+.tips-grid { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0; }
+.tip-card { flex: 1 1 200px; background: linear-gradient(135deg, #fef9f0, #fff4e6); border-left: 4px solid #e67e22; border-radius: 8px; padding: 1rem 1.2rem; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.tip-icon { font-size: 1.6rem; margin-bottom: 0.4rem; }
+.tip-text { font-size: 0.9rem; line-height: 1.4; color: #444; }
+</style>
+++++
+
+##############################################
+
+
+++++
+<style>
+.session-grid { display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0; }
+.session-card { background: #fafafa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1rem 1.5rem; }
+.session-card h3 { margin: 0 0 0.5rem 0; font-size: 1.2rem; color: #d35400; }
+.session-tag { display: inline-block; background: #fef3e2; color: #e67e22; font-size: 0.8rem; font-weight: 600; padding: 0.15rem 0.6rem; border-radius: 4px; margin-bottom: 0.75rem; }
+.session-moves { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.session-move { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 0.3rem 0.75rem; font-size: 0.9rem; color: #333; white-space: nowrap; }
+</style>
+++++
+
+== Classroom Sessions
+
+> Bachata Classroom Sessions - A structured approach to learning Bachata, covering foundational techniques, partner work, and improvers moves.
+
+++++
+<div class="session-grid">
+
+<div class="session-card">
+  <h3>Session 1</h3>
+  <div class="session-tag">Basics</div>
+  <div class="session-moves">
+    <span class="session-move">Side Basic</span>
+    <span class="session-move">Front & Back Basic</span>
+    <span class="session-move">Left Turn</span>
+    <span class="session-move">Right Turn</span>
+    <span class="session-move">In Place Basic</span>
+    <span class="session-move">Step & Tap</span>
+    <span class="session-move">Basic in Different Directions</span>
+  </div>
+</div>
+
+
+<div class="session-card">
+  <h3>Session 2</h3>
+  <div class="session-tag">Open & Semi Close Hold</div>
+  <div class="session-moves">
+    <span class="session-move">Different Holds</span>
+    <span class="session-move">Open → Semi Close</span>
+    <span class="session-move">Side Basic</span>
+    <span class="session-move">Front & Back Basic</span>
+    <span class="session-move">Left Turn</span>
+    <span class="session-move">Right Turn</span>
+    <span class="session-move">In Place Basic</span>
+    <span class="session-move">Step & Tap</span>
+  </div>
+</div>
+
+
+<div class="session-card">
+  <h3>Session 3</h3>
+  <div class="session-tag">Partner Work</div>
+  <div class="session-moves">
+    <span class="session-move">Basic + 180° Rotation</span>
+    <span class="session-move">Bachata Turns</span>
+    <span class="session-move">Wrap / Pretzel</span>
+    <span class="session-move">Hair Comb / Caricia</span>
+    <span class="session-move">Hammer Lock</span>
+    <span class="session-move">Mambo / Step Tap</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 4</h3>
+  <div class="session-tag">Basic - Improvers Moves</div>
+  <div class="session-moves">
+    <span class="session-move">Switching Places</span>
+    <span class="session-move">Neck Roll</span>
+    <span class="session-move">Hip Roll</span>
+    <span class="session-move">Kentucky / Pretzel / Wrap</span>
+  </div>
+</div>
+
+
+<div class="session-card">
+  <h3>Session 5</h3>
+  <div class="session-tag">Basic - Improvers Moves</div>
+  <div class="session-moves">
+    <span class="session-move">Leader Inside Turns</span>
+    <span class="session-move">Leader Hammerlock</span>
+    <span class="session-move">Madrid Step</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Session 6</h3>
+  <div class="session-tag">Cross Hands + Turns</div>
+  <div class="session-moves">
+    <span class="session-move">Cross Hand Turns</span>
+    <span class="session-move">Cross Hand Hammerlock</span>
+    <span class="session-move">Guys Outside Turns</span>
+    <span class="session-move">Pretzel direction</span>
+  </div>
+</div>
+
+
+</div>
+++++
+
+##############################################
+
+== Classroom Shines
+
+++++
+<div class="session-card">
+  <h3>Basic Shines</h3>
+  <div class="session-tag">Basics</div>
+  <div class="session-moves">
+    <span class="session-move">Side and Front Basic</span>
+    <span class="session-move">In Place Basic</span>
+    <span class="session-move">Side Tap</span>
+    <span class="session-move">Sweep at 2</span>
+    <span class="session-move">Inside Turns</span>
+  </div>
+</div>
+
+<div class="session-card">
+  <h3>Improvers Shines</h3>
+  <div class="session-tag">Improvers</div>
+  <div class="session-moves">
+    <span class="session-move">Tap Tap on 4, 8</span>
+    <span class="session-move">Heel Toe on 4, 8 (Side and Front Basic)</span>
+    <span class="session-move">Cha Cha Cha</span>
+    <span class="session-move">Madrid Step</span>
+  </div>
+</div>
+++++
+
