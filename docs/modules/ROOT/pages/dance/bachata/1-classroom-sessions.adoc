@@ -120,6 +120,43 @@
 </div>
 
 
+<div class="session-card">
+  <h3>Session 7 - Improvers Routines</h3>
+  <div class="session-tag">Routines</div>
+  <div class="session-moves">
+
+    <span class="session-move"><b>Introduction and Inplace Basic</b>: Use Basic and In-Place Introduction</span>
+
+    <span class="session-move"><b>Turns Routine</b>: Inside Turns for follower and leader, including side and front basics</span>
+
+    <span class="session-move"><b>Hammerlock Routine</b>: Hammerlock for follower and leader, including side and front basics</span>
+
+    <span class="session-move"><b>Prezel Routine</b>: Pretzel, including side and front basics, with change in direction</span>
+
+    <span class="session-move"><b>Interrupt and 180° Routine</b>: Interrupt on 1234 and 5678, 180° turns including basics</span>
+
+    <span class="session-move"><b>Cross Hand and Hammerlocks Routine</b>: Simple Cross Hand, Leader Turn into Cross Hand, and Hammerlock</span>
+
+    <span class="session-move"><b>Hair Comb, Neck Roll, and Hip Rolls</b>: Hair Comb for Follower and Leader, Neck Roll for Follower and Leader, <br/>Hip Rolls for Follower and Leader</span>
+
+  </div>
+
+
+
+
+</div>
+
+
+  <div class="session-card">
+  <h3>Session 8 - Intermediate Routine</h3>
+  <div class="session-tag">Routines</div>
+  <div class="session-moves">
+
+    <span class="session-move">Intermediate Routine</span>
+
+  </div>
+
+
 </div>
 ++++
 
@@ -128,6 +165,9 @@
 == Classroom Shines
 
 ++++
+
+<div class="session-grid">
+
 <div class="session-card">
   <h3>Basic Shines</h3>
   <div class="session-tag">Basics</div>
@@ -150,6 +190,8 @@
     <span class="session-move">Cha Cha Cha</span>
     <span class="session-move">Madrid Step</span>
   </div>
+</div>
+
 </div>
 ++++
 
